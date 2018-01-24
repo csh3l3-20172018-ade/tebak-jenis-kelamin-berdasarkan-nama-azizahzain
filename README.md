@@ -11,5 +11,7 @@ Kelas : IF-39-14
 
 Asumsi yang digunakan adalah huruf a, i, u, e, t, dan l akan sering muncul pada nama orang berjenis kelamin perempuan sedangkan huruf b, d, o sering muncul pada nama orang yang berjenis kelamin laki-laki, dan sisanya adalah tidak diketahui.
 
+Nama yang sudah dicobakan adalah puput, azizah zain, azizah, hisam, ghani, rizaldi
 
-Dari banyaknya jenis huruf yang ada maka dapat disimpulkan bahwa perempuan lebih banyak daripada laki-laki
+
+Dari banyaknya jenis huruf yang ada maka dapat disimpulkan bahwa output perempuan lebih banyak daripada output laki-laki
